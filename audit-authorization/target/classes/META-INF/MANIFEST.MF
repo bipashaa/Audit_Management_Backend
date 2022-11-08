@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: audit-authorization
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Bipasha
+Implementation-Vendor-Id: com.mfpe
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://spring.io/projects/spring-boot/audit-autho
+ rization
+Created-By: Maven Integration for Eclipse
+
